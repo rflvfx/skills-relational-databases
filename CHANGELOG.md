@@ -506,3 +506,4 @@
 - 2026-02-13: Update notes
 - 2026-04-17: Refine text
 - 2026-06-14: Minor update
+- 2026-12-06: Adjust content
