@@ -62,3 +62,4 @@
 - 2015-03-01: Small fix
 - 2015-10-16: Add note
 - 2015-12-23: Expand section
+- 2015-01-09: Add detail
