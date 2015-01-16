@@ -78,3 +78,4 @@
 - 2015-06-13: Adjust content
 - 2015-06-04: Adjust content
 - 2015-02-16: Refine text
+- 2015-01-16: Add note
