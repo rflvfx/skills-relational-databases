@@ -77,3 +77,4 @@
 - 2015-04-17: Fix example
 - 2015-06-13: Adjust content
 - 2015-06-04: Adjust content
+- 2015-02-16: Refine text
