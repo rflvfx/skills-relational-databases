@@ -45,3 +45,4 @@
 - 2025-08-04: Improve constraint naming coverage
 - 2026-09-17: Update stats freshness reference
 - 2015-07-09: Fix example
+- 2015-03-22: Update guide
