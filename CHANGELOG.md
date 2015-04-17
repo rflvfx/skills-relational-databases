@@ -74,3 +74,4 @@
 - 2015-06-17: Update notes
 - 2015-06-22: Add detail
 - 2015-07-14: Typo fix
+- 2015-04-17: Fix example
