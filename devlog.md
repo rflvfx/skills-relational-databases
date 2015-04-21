@@ -1,1 +1,2 @@
 - 2015-02-12 - Fix examples
+- 2015-04-21 - Add practice notes
