@@ -12,3 +12,4 @@
 - 2015-02-25: Typo fix
 - 2015-11-01: Update guide
 - 2015-12-07: Refine text
+- 2015-06-19: Add detail
