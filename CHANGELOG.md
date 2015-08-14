@@ -11,3 +11,4 @@
 - 2020-07-21: Document stats freshness
 - 2015-01-10: Update lock contention reference
 - 2015-04-19: Update deadlock detection reference
+- 2015-08-14: Review isolation anomalies section
