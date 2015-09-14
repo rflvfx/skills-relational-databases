@@ -46,3 +46,4 @@
 - 2026-09-17: Update stats freshness reference
 - 2015-07-09: Fix example
 - 2015-03-22: Update guide
+- 2015-09-14: Fix example
