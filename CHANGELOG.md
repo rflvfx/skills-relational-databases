@@ -65,3 +65,4 @@
 - 2015-01-09: Add detail
 - 2015-05-11: Update guide
 - 2015-12-18: Update notes
+- 2015-09-24: Improve docs
