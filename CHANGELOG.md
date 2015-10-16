@@ -60,3 +60,4 @@
 - 2015-01-18: Add remark
 - 2015-05-03: Typo fix
 - 2015-03-01: Small fix
+- 2015-10-16: Add note
