@@ -83,3 +83,4 @@
 - 2015-01-22: Expand section
 - 2015-09-17: Fix example
 - 2015-09-07: Add remark
+- 2015-12-10: Add detail
