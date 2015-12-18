@@ -64,3 +64,4 @@
 - 2015-12-23: Expand section
 - 2015-01-09: Add detail
 - 2015-05-11: Update guide
+- 2015-12-18: Update notes
