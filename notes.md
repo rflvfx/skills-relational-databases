@@ -14,3 +14,4 @@
 - 2015-12-07: Refine text
 - 2015-06-19: Add detail
 - 2015-08-01: Typo fix
+- 2016-01-06: Add detail
