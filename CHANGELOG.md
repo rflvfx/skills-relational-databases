@@ -107,3 +107,4 @@
 - 2016-02-16: Small fix
 - 2016-04-01: Adjust content
 - 2016-01-14: Add detail
+- 2016-02-11: Clarify section
