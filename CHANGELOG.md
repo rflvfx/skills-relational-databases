@@ -123,3 +123,4 @@
 - 2016-04-08: Polish docs
 - 2016-12-27: Review content
 - 2016-01-03: Update notes
+- 2016-02-18: Adjust content
