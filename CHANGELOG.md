@@ -94,3 +94,4 @@
 - 2016-10-18: Add detail
 - 2016-08-21: Update guide
 - 2016-06-08: Add note
+- 2016-02-26: Review content
