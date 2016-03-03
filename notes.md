@@ -26,3 +26,4 @@
 - 2016-06-15: Update notes
 - 2016-04-17: Improve docs
 - 2016-05-24: Add detail
+- 2016-03-03: Expand section
