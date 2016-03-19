@@ -102,3 +102,4 @@
 - 2016-07-04: Clarify section
 - 2016-07-13: Small fix
 - 2016-12-10: Add remark
+- 2016-03-19: Small fix
