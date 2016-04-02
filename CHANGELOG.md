@@ -111,3 +111,4 @@
 - 2016-12-06: Fix example
 - 2016-12-14: Update guide
 - 2016-07-17: Adjust content
+- 2016-04-02: Clarify section
