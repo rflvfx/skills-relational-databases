@@ -24,3 +24,4 @@
 - 2016-06-10: Update guide
 - 2016-09-26: Clarify section
 - 2016-06-15: Update notes
+- 2016-04-17: Improve docs
