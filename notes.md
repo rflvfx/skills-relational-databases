@@ -15,3 +15,4 @@
 - 2015-06-19: Add detail
 - 2015-08-01: Typo fix
 - 2016-01-06: Add detail
+- 2016-05-28: Minor update
