@@ -103,3 +103,4 @@
 - 2016-07-13: Small fix
 - 2016-12-10: Add remark
 - 2016-03-19: Small fix
+- 2016-06-12: Polish docs
