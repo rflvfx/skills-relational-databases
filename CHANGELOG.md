@@ -114,3 +114,4 @@
 - 2016-04-02: Clarify section
 - 2016-03-23: Small fix
 - 2016-11-24: Refine text
+- 2016-06-21: Fix example
