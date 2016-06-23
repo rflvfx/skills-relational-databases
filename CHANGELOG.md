@@ -96,3 +96,4 @@
 - 2016-06-08: Add note
 - 2016-02-26: Review content
 - 2016-02-24: Review content
+- 2016-06-23: Expand section
