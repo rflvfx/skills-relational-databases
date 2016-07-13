@@ -100,3 +100,4 @@
 - 2016-03-04: Add remark
 - 2016-03-20: Update notes
 - 2016-07-04: Clarify section
+- 2016-07-13: Small fix
