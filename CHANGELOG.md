@@ -116,3 +116,4 @@
 - 2016-11-24: Refine text
 - 2016-06-21: Fix example
 - 2016-08-22: Expand section
+- 2016-07-18: Add remark
