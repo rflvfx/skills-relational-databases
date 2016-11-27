@@ -88,3 +88,4 @@
 - 2015-03-13: Expand section
 - 2016-09-19: Small fix
 - 2016-02-11: Review content
+- 2016-11-27: Clarify section
