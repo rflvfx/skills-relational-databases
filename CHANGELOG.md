@@ -109,3 +109,4 @@
 - 2016-01-14: Add detail
 - 2016-02-11: Clarify section
 - 2016-12-06: Fix example
+- 2016-12-14: Update guide
