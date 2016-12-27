@@ -121,3 +121,4 @@
 - 2016-10-03: Typo fix
 - 2016-06-11: Polish docs
 - 2016-04-08: Polish docs
+- 2016-12-27: Review content
