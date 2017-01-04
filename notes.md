@@ -31,3 +31,4 @@
 - 2016-02-09: Add detail
 - 2017-01-24: Typo fix
 - 2017-07-09: Adjust content
+- 2017-01-04: Minor update
