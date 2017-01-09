@@ -38,3 +38,4 @@
 - 2017-07-24: Fix example
 - 2017-09-22: Update notes
 - 2017-07-28: Improve docs
+- 2017-01-09: Add remark
