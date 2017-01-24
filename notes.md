@@ -29,3 +29,4 @@
 - 2016-03-03: Expand section
 - 2016-05-26: Polish docs
 - 2016-02-09: Add detail
+- 2017-01-24: Typo fix
