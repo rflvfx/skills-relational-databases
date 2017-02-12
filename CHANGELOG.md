@@ -155,3 +155,4 @@
 - 2017-12-15: Minor update
 - 2017-06-16: Clarify section
 - 2017-09-13: Fix example
+- 2017-02-12: Update notes
