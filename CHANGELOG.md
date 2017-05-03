@@ -144,3 +144,4 @@
 - 2017-10-08: Polish docs
 - 2017-07-14: Typo fix
 - 2017-04-06: Adjust content
+- 2017-05-03: Add note
