@@ -32,3 +32,4 @@
 - 2017-01-24: Typo fix
 - 2017-07-09: Adjust content
 - 2017-01-04: Minor update
+- 2017-05-22: Update notes
