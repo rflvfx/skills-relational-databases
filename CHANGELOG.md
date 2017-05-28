@@ -161,3 +161,4 @@
 - 2017-03-02: Add remark
 - 2017-08-11: Expand section
 - 2017-02-28: Expand section
+- 2017-05-28: Add detail
