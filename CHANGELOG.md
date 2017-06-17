@@ -166,3 +166,4 @@
 - 2017-11-25: Add remark
 - 2017-12-18: Add detail
 - 2017-01-12: Polish docs
+- 2017-06-17: Refine text
