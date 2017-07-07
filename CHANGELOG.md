@@ -125,3 +125,4 @@
 - 2016-01-03: Update notes
 - 2016-02-18: Adjust content
 - 2016-04-06: Add detail
+- 2017-07-07: Expand section
