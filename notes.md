@@ -35,3 +35,4 @@
 - 2017-05-22: Update notes
 - 2017-07-12: Update notes
 - 2017-08-13: Add detail
+- 2017-07-24: Fix example
