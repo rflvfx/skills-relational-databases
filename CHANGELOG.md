@@ -154,3 +154,4 @@
 - 2017-11-05: Add note
 - 2017-12-15: Minor update
 - 2017-06-16: Clarify section
+- 2017-09-13: Fix example
