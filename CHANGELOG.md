@@ -157,3 +157,4 @@
 - 2017-09-13: Fix example
 - 2017-02-12: Update notes
 - 2017-05-10: Add note
+- 2017-10-11: Minor update
