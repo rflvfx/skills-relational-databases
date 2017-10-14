@@ -149,3 +149,4 @@
 - 2017-06-20: Update notes
 - 2017-01-25: Typo fix
 - 2017-08-23: Clarify section
+- 2017-10-14: Expand section
