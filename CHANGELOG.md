@@ -18,3 +18,4 @@
 - 2021-12-19: Expand isolation anomalies docs
 - 2022-01-01: Add fk cascades notes
 - 2022-09-10: Add surrogate keys examples
+- 2017-10-15: Refine stored logic guide
