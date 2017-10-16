@@ -133,3 +133,4 @@
 - 2017-03-17: Review content
 - 2017-02-08: Update guide
 - 2017-04-07: Minor update
+- 2017-10-16: Update guide
