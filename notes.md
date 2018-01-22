@@ -41,3 +41,4 @@
 - 2017-01-09: Add remark
 - 2017-02-06: Minor update
 - 2018-06-04: Adjust content
+- 2018-01-22: Improve docs
