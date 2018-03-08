@@ -46,3 +46,4 @@
 - 2018-11-13: Fix example
 - 2018-11-09: Add detail
 - 2018-10-05: Update notes
+- 2018-03-08: Improve docs
