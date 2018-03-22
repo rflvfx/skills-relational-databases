@@ -174,3 +174,4 @@
 - 2018-09-02: Refine text
 - 2018-11-17: Small fix
 - 2018-11-26: Minor update
+- 2018-03-22: Add detail
