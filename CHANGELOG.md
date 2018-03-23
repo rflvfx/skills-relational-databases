@@ -181,3 +181,4 @@
 - 2018-09-14: Typo fix
 - 2018-12-01: Minor update
 - 2018-12-26: Update guide
+- 2018-03-23: Clarify section
