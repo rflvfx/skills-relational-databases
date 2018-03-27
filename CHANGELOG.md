@@ -169,3 +169,4 @@
 - 2017-06-17: Refine text
 - 2017-08-27: Clarify section
 - 2018-10-22: Fix example
+- 2018-03-27: Update guide
