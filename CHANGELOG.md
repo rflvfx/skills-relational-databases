@@ -194,3 +194,4 @@
 - 2018-04-17: Fix example
 - 2018-01-05: Clarify section
 - 2018-02-28: Add note
+- 2018-04-02: Update guide
