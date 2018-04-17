@@ -175,3 +175,4 @@
 - 2018-11-17: Small fix
 - 2018-11-26: Minor update
 - 2018-03-22: Add detail
+- 2018-04-17: Clarify section
