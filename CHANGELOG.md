@@ -191,3 +191,4 @@
 - 2018-08-26: Add detail
 - 2018-01-18: Polish docs
 - 2018-02-09: Expand section
+- 2018-04-17: Fix example
