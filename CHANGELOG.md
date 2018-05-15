@@ -202,3 +202,4 @@
 - 2018-12-16: Improve docs
 - 2018-01-18: Add detail
 - 2018-04-07: Review content
+- 2018-05-15: Typo fix
