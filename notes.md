@@ -47,3 +47,4 @@
 - 2018-11-09: Add detail
 - 2018-10-05: Update notes
 - 2018-03-08: Improve docs
+- 2018-06-07: Minor update
