@@ -2,3 +2,4 @@
 - 2015-04-21 - Add practice notes
 - 2016-03-11 - Refine exercises
 - 2018-04-15 - Fix examples
+- 2018-08-12 - Fix examples
