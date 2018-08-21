@@ -170,3 +170,4 @@
 - 2017-08-27: Clarify section
 - 2018-10-22: Fix example
 - 2018-03-27: Update guide
+- 2018-08-21: Update notes
