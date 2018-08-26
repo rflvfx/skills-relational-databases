@@ -188,3 +188,4 @@
 - 2018-02-05: Minor update
 - 2018-09-06: Update notes
 - 2018-06-13: Minor update
+- 2018-08-26: Add detail
