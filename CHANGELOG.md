@@ -178,3 +178,4 @@
 - 2018-04-17: Clarify section
 - 2018-05-10: Clarify section
 - 2018-04-20: Refine text
+- 2018-09-14: Typo fix
