@@ -45,3 +45,4 @@
 - 2018-10-14: Typo fix
 - 2018-11-13: Fix example
 - 2018-11-09: Add detail
+- 2018-10-05: Update notes
