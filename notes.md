@@ -42,3 +42,4 @@
 - 2017-02-06: Minor update
 - 2018-06-04: Adjust content
 - 2018-01-22: Improve docs
+- 2018-10-14: Typo fix
