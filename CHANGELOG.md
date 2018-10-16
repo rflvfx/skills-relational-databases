@@ -198,3 +198,4 @@
 - 2018-10-18: Refine text
 - 2018-07-18: Fix example
 - 2018-02-17: Add detail
+- 2018-10-16: Update guide
