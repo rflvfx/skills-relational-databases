@@ -195,3 +195,4 @@
 - 2018-01-05: Clarify section
 - 2018-02-28: Add note
 - 2018-04-02: Update guide
+- 2018-10-18: Refine text
