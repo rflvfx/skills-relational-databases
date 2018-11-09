@@ -44,3 +44,4 @@
 - 2018-01-22: Improve docs
 - 2018-10-14: Typo fix
 - 2018-11-13: Fix example
+- 2018-11-09: Add detail
