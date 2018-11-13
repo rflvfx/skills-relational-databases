@@ -43,3 +43,4 @@
 - 2018-06-04: Adjust content
 - 2018-01-22: Improve docs
 - 2018-10-14: Typo fix
+- 2018-11-13: Fix example
