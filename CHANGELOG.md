@@ -172,3 +172,4 @@
 - 2018-03-27: Update guide
 - 2018-08-21: Update notes
 - 2018-09-02: Refine text
+- 2018-11-17: Small fix
