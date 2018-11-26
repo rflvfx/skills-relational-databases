@@ -173,3 +173,4 @@
 - 2018-08-21: Update notes
 - 2018-09-02: Refine text
 - 2018-11-17: Small fix
+- 2018-11-26: Minor update
