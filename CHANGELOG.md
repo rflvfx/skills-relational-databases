@@ -199,3 +199,4 @@
 - 2018-07-18: Fix example
 - 2018-02-17: Add detail
 - 2018-10-16: Update guide
+- 2018-12-16: Improve docs
