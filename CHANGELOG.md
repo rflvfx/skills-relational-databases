@@ -180,3 +180,4 @@
 - 2018-04-20: Refine text
 - 2018-09-14: Typo fix
 - 2018-12-01: Minor update
+- 2018-12-26: Update guide
