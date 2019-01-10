@@ -216,3 +216,4 @@
 - 2019-02-26: Typo fix
 - 2019-10-17: Add note
 - 2019-08-01: Polish docs
+- 2019-01-10: Add remark
