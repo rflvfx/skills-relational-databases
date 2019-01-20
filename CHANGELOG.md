@@ -241,3 +241,4 @@
 - 2019-02-25: Small fix
 - 2019-07-04: Minor update
 - 2019-03-26: Refine text
+- 2019-01-20: Refine text
