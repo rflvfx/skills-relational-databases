@@ -5,3 +5,4 @@
 - 2018-08-12 - Fix examples
 - 2023-02-27 - Add practice notes
 - 2018-07-01 — Small fixes
+- 2019-01-28 — Refine exercises
