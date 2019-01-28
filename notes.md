@@ -55,3 +55,4 @@
 - 2018-11-12: Adjust content
 - 2019-07-07: Clarify section
 - 2019-07-18: Review content
+- 2019-01-28: Expand section
