@@ -228,3 +228,4 @@
 - 2019-10-28: Expand section
 - 2019-04-18: Adjust content
 - 2019-08-16: Polish docs
+- 2019-02-21: Add note
