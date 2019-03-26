@@ -240,3 +240,4 @@
 - 2019-07-26: Add note
 - 2019-02-25: Small fix
 - 2019-07-04: Minor update
+- 2019-03-26: Refine text
