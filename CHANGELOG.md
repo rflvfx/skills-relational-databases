@@ -226,3 +226,4 @@
 - 2019-11-27: Small fix
 - 2019-11-15: Adjust content
 - 2019-10-28: Expand section
+- 2019-04-18: Adjust content
