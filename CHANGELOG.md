@@ -234,3 +234,4 @@
 - 2019-06-10: Fix example
 - 2019-12-03: Polish docs
 - 2019-11-28: Improve docs
+- 2019-06-09: Add detail
