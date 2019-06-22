@@ -25,3 +25,4 @@
 - 2018-04-07: Document index coverage
 - 2018-04-08: Document query rewrites
 - 2018-07-14: Improve stats freshness coverage
+- 2019-06-22: Improve lock contention coverage
