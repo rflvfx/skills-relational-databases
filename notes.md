@@ -54,3 +54,4 @@
 - 2018-11-09: Update notes
 - 2018-11-12: Adjust content
 - 2019-07-07: Clarify section
+- 2019-07-18: Review content
