@@ -237,3 +237,4 @@
 - 2019-06-09: Add detail
 - 2019-02-07: Adjust content
 - 2019-03-18: Improve docs
+- 2019-07-26: Add note
