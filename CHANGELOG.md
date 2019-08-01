@@ -215,3 +215,4 @@
 - 2019-04-09: Expand section
 - 2019-02-26: Typo fix
 - 2019-10-17: Add note
+- 2019-08-01: Polish docs
