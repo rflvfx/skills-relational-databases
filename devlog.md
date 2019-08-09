@@ -10,3 +10,4 @@
 - 2023-09-12 — Add practice notes
 - 2024-06-25 — Fix examples
 - 2024-10-22 — Review material
+- 2019-08-09 - Improve explanation
