@@ -56,3 +56,4 @@
 - 2019-07-07: Clarify section
 - 2019-07-18: Review content
 - 2019-01-28: Expand section
+- 2019-09-17: Add note
