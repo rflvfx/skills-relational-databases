@@ -6,3 +6,4 @@
 - 2018-06-28: Add temporal tables notes
 - 2018-12-13: Add stored logic notes
 - 2019-08-05: Add constraint naming notes
+- 2019-09-26: Update index coverage reference
