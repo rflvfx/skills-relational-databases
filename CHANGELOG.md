@@ -211,3 +211,4 @@
 - 2019-08-28: Add remark
 - 2019-11-10: Add detail
 - 2019-10-13: Expand section
+- 2019-10-03: Update notes
