@@ -232,3 +232,4 @@
 - 2019-01-18: Refine text
 - 2019-08-15: Review content
 - 2019-06-10: Fix example
+- 2019-12-03: Polish docs
