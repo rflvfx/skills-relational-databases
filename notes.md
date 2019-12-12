@@ -60,3 +60,4 @@
 - 2019-02-18: Review content
 - 2019-10-28: Typo fix
 - 2019-05-23: Improve docs
+- 2019-12-12: Add remark
