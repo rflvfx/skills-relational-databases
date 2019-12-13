@@ -218,3 +218,4 @@
 - 2019-08-01: Polish docs
 - 2019-01-10: Add remark
 - 2019-03-16: Small fix
+- 2019-12-13: Update guide
