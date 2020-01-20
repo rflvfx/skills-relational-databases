@@ -248,3 +248,4 @@
 - 2020-02-10: Refine text
 - 2020-06-14: Refine text
 - 2020-10-22: Adjust content
+- 2020-01-20: Update guide
