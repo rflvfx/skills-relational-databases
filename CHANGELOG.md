@@ -245,3 +245,4 @@
 - 2020-05-24: Add remark
 - 2020-02-06: Refine text
 - 2020-08-25: Fix example
+- 2020-02-10: Refine text
