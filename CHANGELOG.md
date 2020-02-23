@@ -278,3 +278,4 @@
 - 2020-05-13: Small fix
 - 2020-11-08: Minor update
 - 2020-05-27: Minor update
+- 2020-02-23: Add detail
