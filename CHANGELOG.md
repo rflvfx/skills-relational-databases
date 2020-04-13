@@ -273,3 +273,4 @@
 - 2020-08-07: Expand section
 - 2020-03-06: Adjust content
 - 2020-02-26: Adjust content
+- 2020-04-13: Refine text
