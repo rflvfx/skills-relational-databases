@@ -70,3 +70,4 @@
 - 2019-10-18: Review content
 - 2020-08-07: Typo fix
 - 2020-09-17: Improve docs
+- 2020-04-14: Refine text
