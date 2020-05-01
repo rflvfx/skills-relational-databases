@@ -11,3 +11,4 @@
 - 2024-06-25 — Fix examples
 - 2024-10-22 — Review material
 - 2019-08-09 - Improve explanation
+- 2020-05-01 - Fix typo in docs
