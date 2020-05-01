@@ -260,3 +260,4 @@
 - 2020-02-02: Add note
 - 2020-10-24: Update guide
 - 2020-03-13: Clarify section
+- 2020-05-01: Add note
