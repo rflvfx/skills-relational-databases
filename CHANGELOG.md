@@ -264,3 +264,4 @@
 - 2020-07-17: Minor update
 - 2020-11-02: Minor update
 - 2020-03-10: Polish docs
+- 2020-05-17: Polish docs
