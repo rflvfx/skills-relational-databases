@@ -279,3 +279,4 @@
 - 2020-11-08: Minor update
 - 2020-05-27: Minor update
 - 2020-02-23: Add detail
+- 2020-05-19: Clarify section
