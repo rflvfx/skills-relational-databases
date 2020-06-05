@@ -281,3 +281,4 @@
 - 2020-02-23: Add detail
 - 2020-05-19: Clarify section
 - 2020-09-28: Add remark
+- 2020-06-05: Fix example
