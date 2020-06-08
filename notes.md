@@ -71,3 +71,4 @@
 - 2020-08-07: Typo fix
 - 2020-09-17: Improve docs
 - 2020-04-14: Refine text
+- 2020-06-08: Clarify section
