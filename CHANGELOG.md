@@ -246,3 +246,4 @@
 - 2020-02-06: Refine text
 - 2020-08-25: Fix example
 - 2020-02-10: Refine text
+- 2020-06-14: Refine text
