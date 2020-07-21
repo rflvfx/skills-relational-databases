@@ -8,3 +8,5 @@
 - 2019-08-05: Add constraint naming notes
 - 2019-09-26: Update index coverage reference
 - 2020-06-24: Document query rewrites
+- 2020-07-21: Document stats freshness
+- 2015-01-10: Update lock contention reference
