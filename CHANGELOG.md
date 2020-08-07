@@ -270,3 +270,4 @@
 - 2020-08-23: Update notes
 - 2020-05-22: Adjust content
 - 2020-05-05: Clarify section
+- 2020-08-07: Expand section
