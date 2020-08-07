@@ -68,3 +68,4 @@
 - 2019-03-15: Polish docs
 - 2019-07-17: Add remark
 - 2019-10-18: Review content
+- 2020-08-07: Typo fix
