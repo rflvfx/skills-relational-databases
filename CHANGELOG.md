@@ -267,3 +267,4 @@
 - 2020-05-17: Polish docs
 - 2020-09-15: Add detail
 - 2020-05-02: Clarify section
+- 2020-08-23: Update notes
