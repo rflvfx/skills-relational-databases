@@ -250,3 +250,4 @@
 - 2020-10-22: Adjust content
 - 2020-01-20: Update guide
 - 2020-05-04: Polish docs
+- 2020-09-14: Small fix
