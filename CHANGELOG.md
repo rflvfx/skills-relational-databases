@@ -285,3 +285,4 @@
 - 2020-09-01: Add detail
 - 2020-11-04: Update notes
 - 2020-04-04: Expand section
+- 2020-09-27: Clarify section
