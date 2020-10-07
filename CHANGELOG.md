@@ -255,3 +255,4 @@
 - 2020-07-16: Add detail
 - 2020-12-19: Add note
 - 2020-03-17: Polish docs
+- 2020-10-07: Adjust content
