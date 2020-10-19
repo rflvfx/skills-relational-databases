@@ -78,3 +78,4 @@
 - 2020-04-17: Update notes
 - 2020-03-01: Typo fix
 - 2020-12-17: Small fix
+- 2020-10-19: Add remark
