@@ -258,3 +258,4 @@
 - 2020-10-07: Adjust content
 - 2020-07-27: Fix example
 - 2020-02-02: Add note
+- 2020-10-24: Update guide
