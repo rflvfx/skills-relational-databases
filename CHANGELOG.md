@@ -276,3 +276,4 @@
 - 2020-04-13: Refine text
 - 2020-09-25: Small fix
 - 2020-05-13: Small fix
+- 2020-11-08: Minor update
