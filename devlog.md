@@ -6,3 +6,4 @@
 - 2023-02-27 - Add practice notes
 - 2018-07-01 — Small fixes
 - 2019-01-28 — Refine exercises
+- 2020-11-10 — Update content
