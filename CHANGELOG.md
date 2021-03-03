@@ -304,3 +304,4 @@
 - 2021-12-21: Expand section
 - 2021-01-25: Adjust content
 - 2021-09-08: Review content
+- 2021-03-03: Update guide
