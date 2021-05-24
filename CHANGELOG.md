@@ -287,3 +287,4 @@
 - 2020-04-04: Expand section
 - 2020-09-27: Clarify section
 - 2021-06-11: Adjust content
+- 2021-05-24: Adjust content
