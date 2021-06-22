@@ -305,3 +305,4 @@
 - 2021-01-25: Adjust content
 - 2021-09-08: Review content
 - 2021-03-03: Update guide
+- 2021-06-22: Polish docs
