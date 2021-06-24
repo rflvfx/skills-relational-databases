@@ -12,3 +12,5 @@
 - 2015-01-10: Update lock contention reference
 - 2015-04-19: Update deadlock detection reference
 - 2015-08-14: Review isolation anomalies section
+- 2021-06-24: Review lock contention section
+- 2015-09-16: Add fk cascades notes
