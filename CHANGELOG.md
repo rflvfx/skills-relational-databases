@@ -318,3 +318,4 @@
 - 2021-08-07: Polish docs
 - 2021-05-15: Add remark
 - 2021-04-11: Update notes
+- 2021-10-09: Typo fix
