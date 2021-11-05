@@ -87,3 +87,4 @@
 - 2021-02-09: Typo fix
 - 2021-02-26: Clarify section
 - 2021-12-28: Polish docs
+- 2021-11-05: Polish docs
