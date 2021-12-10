@@ -323,3 +323,4 @@
 - 2021-02-28: Minor update
 - 2021-09-20: Review content
 - 2021-09-12: Review content
+- 2021-12-10: Add detail
