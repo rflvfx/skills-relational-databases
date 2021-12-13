@@ -313,3 +313,4 @@
 - 2021-05-21: Add detail
 - 2021-07-17: Update notes
 - 2021-11-23: Improve docs
+- 2021-12-13: Small fix
