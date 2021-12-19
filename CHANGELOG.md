@@ -15,3 +15,4 @@
 - 2021-06-24: Review lock contention section
 - 2015-09-16: Add fk cascades notes
 - 2021-10-24: Improve deadlock detection coverage
+- 2021-12-19: Expand isolation anomalies docs
