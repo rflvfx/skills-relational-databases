@@ -80,3 +80,4 @@
 - 2020-12-17: Small fix
 - 2020-10-19: Add remark
 - 2021-10-19: Add remark
+- 2021-12-19: Clarify section
