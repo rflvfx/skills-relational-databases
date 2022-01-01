@@ -16,3 +16,4 @@
 - 2015-09-16: Add fk cascades notes
 - 2021-10-24: Improve deadlock detection coverage
 - 2021-12-19: Expand isolation anomalies docs
+- 2022-01-01: Add fk cascades notes
