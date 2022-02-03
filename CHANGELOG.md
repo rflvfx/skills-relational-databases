@@ -345,3 +345,4 @@
 - 2022-09-26: Typo fix
 - 2022-02-14: Minor update
 - 2022-03-13: Fix example
+- 2022-02-03: Update guide
