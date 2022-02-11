@@ -332,3 +332,4 @@
 - 2022-04-25: Fix example
 - 2022-11-01: Clarify section
 - 2022-05-16: Typo fix
+- 2022-02-11: Refine text
