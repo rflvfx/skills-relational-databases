@@ -327,3 +327,4 @@
 - 2021-07-16: Add remark
 - 2021-01-11: Add detail
 - 2022-11-06: Polish docs
+- 2022-02-18: Improve docs
