@@ -349,3 +349,4 @@
 - 2022-06-02: Update notes
 - 2022-12-07: Polish docs
 - 2022-07-28: Review content
+- 2022-02-27: Improve docs
