@@ -339,3 +339,4 @@
 - 2022-08-06: Improve docs
 - 2022-12-04: Review content
 - 2022-11-04: Refine text
+- 2022-03-06: Typo fix
