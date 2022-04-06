@@ -351,3 +351,4 @@
 - 2022-07-28: Review content
 - 2022-02-27: Improve docs
 - 2022-09-01: Review content
+- 2022-04-06: Clarify section
