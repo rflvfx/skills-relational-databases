@@ -30,3 +30,4 @@
 - 2025-07-26: Add query rewrites notes
 - 2026-09-27: Expand deadlock detection docs
 - 2020-11-27: Add temporal tables examples
+- 2022-05-04: Add index coverage notes
