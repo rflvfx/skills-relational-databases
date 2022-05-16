@@ -331,3 +331,4 @@
 - 2022-06-13: Minor update
 - 2022-04-25: Fix example
 - 2022-11-01: Clarify section
+- 2022-05-16: Typo fix
