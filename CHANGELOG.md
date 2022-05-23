@@ -352,3 +352,4 @@
 - 2022-02-27: Improve docs
 - 2022-09-01: Review content
 - 2022-04-06: Clarify section
+- 2022-05-23: Refine text
