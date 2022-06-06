@@ -357,3 +357,4 @@
 - 2022-09-28: Adjust content
 - 2022-05-09: Update guide
 - 2022-10-04: Refine text
+- 2022-06-06: Small fix
