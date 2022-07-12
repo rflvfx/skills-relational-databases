@@ -364,3 +364,4 @@
 - 2022-09-28: Polish docs
 - 2022-10-02: Update guide
 - 2022-07-13: Improve docs
+- 2022-07-12: Add detail
