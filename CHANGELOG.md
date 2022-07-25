@@ -369,3 +369,4 @@
 - 2022-04-10: Review content
 - 2022-02-08: Expand section
 - 2022-10-02: Expand section
+- 2022-07-25: Add detail
