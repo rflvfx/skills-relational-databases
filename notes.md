@@ -97,3 +97,4 @@
 - 2021-04-24: Add note
 - 2022-07-08: Add remark
 - 2022-08-13: Typo fix
+- 2022-09-14: Fix example
