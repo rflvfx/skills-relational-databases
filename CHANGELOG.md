@@ -342,3 +342,4 @@
 - 2022-03-06: Typo fix
 - 2022-03-04: Small fix
 - 2022-05-23: Add note
+- 2022-09-26: Typo fix
