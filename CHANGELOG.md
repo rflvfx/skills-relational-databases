@@ -361,3 +361,4 @@
 - 2022-12-13: Add detail
 - 2022-03-17: Improve docs
 - 2022-03-08: Refine text
+- 2022-09-28: Polish docs
