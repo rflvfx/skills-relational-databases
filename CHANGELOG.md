@@ -354,3 +354,4 @@
 - 2022-04-06: Clarify section
 - 2022-05-23: Refine text
 - 2022-04-14: Polish docs
+- 2022-09-28: Adjust content
