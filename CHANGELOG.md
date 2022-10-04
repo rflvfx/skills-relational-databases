@@ -356,3 +356,4 @@
 - 2022-04-14: Polish docs
 - 2022-09-28: Adjust content
 - 2022-05-09: Update guide
+- 2022-10-04: Refine text
