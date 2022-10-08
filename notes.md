@@ -99,3 +99,4 @@
 - 2022-08-13: Typo fix
 - 2022-09-14: Fix example
 - 2022-11-10: Adjust content
+- 2022-10-08: Small fix
