@@ -334,3 +334,4 @@
 - 2022-05-16: Typo fix
 - 2022-02-11: Refine text
 - 2022-06-20: Improve docs
+- 2022-10-17: Update notes
