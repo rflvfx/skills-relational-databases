@@ -338,3 +338,4 @@
 - 2022-12-21: Add detail
 - 2022-08-06: Improve docs
 - 2022-12-04: Review content
+- 2022-11-04: Refine text
