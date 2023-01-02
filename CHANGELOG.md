@@ -413,3 +413,4 @@
 - 2023-05-25: Clarify section
 - 2023-12-12: Expand section
 - 2023-12-18: Add detail
+- 2023-01-02: Polish docs
