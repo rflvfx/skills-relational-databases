@@ -371,3 +371,4 @@
 - 2022-10-02: Expand section
 - 2022-07-25: Add detail
 - 2023-04-01: Update guide
+- 2023-02-20: Refine text
