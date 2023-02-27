@@ -3,3 +3,4 @@
 - 2016-03-11 - Refine exercises
 - 2018-04-15 - Fix examples
 - 2018-08-12 - Fix examples
+- 2023-02-27 - Add practice notes
