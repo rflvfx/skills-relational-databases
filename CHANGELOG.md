@@ -33,3 +33,4 @@
 - 2022-05-04: Add index coverage notes
 - 2022-08-09: Add stats freshness examples
 - 2022-08-18: Expand join algorithms docs
+- 2023-06-05: Add deadlock detection examples
