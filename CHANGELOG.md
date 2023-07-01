@@ -384,3 +384,4 @@
 - 2023-06-14: Expand section
 - 2023-06-14: Refine text
 - 2023-12-07: Clarify section
+- 2023-07-01: Refine text
