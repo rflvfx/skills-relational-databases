@@ -414,3 +414,4 @@
 - 2023-12-12: Expand section
 - 2023-12-18: Add detail
 - 2023-01-02: Polish docs
+- 2023-07-09: Typo fix
