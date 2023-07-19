@@ -34,3 +34,4 @@
 - 2022-08-09: Add stats freshness examples
 - 2022-08-18: Expand join algorithms docs
 - 2023-06-05: Add deadlock detection examples
+- 2023-07-19: Review isolation anomalies section
