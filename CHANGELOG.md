@@ -393,3 +393,4 @@
 - 2023-01-12: Polish docs
 - 2023-04-20: Add remark
 - 2023-11-12: Update guide
+- 2023-08-28: Clarify section
