@@ -105,3 +105,4 @@
 - 2022-11-08: Polish docs
 - 2022-08-19: Review content
 - 2023-05-16: Adjust content
+- 2023-09-03: Add detail
