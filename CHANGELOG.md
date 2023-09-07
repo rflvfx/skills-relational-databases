@@ -378,3 +378,4 @@
 - 2023-02-25: Add note
 - 2023-09-14: Update guide
 - 2023-07-21: Review content
+- 2023-09-07: Adjust content
