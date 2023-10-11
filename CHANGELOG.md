@@ -21,3 +21,4 @@
 - 2017-10-15: Refine stored logic guide
 - 2017-11-01: Add sequence usage examples
 - 2017-12-08: Review constraint naming section
+- 2023-10-11: Improve view abstraction coverage
