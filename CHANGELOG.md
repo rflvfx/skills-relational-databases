@@ -397,3 +397,4 @@
 - 2023-11-14: Expand section
 - 2023-06-24: Small fix
 - 2023-02-08: Fix example
+- 2023-10-24: Update notes
