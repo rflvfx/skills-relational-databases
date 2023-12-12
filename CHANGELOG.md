@@ -411,3 +411,4 @@
 - 2023-02-10: Fix example
 - 2023-01-14: Small fix
 - 2023-05-25: Clarify section
+- 2023-12-12: Expand section
