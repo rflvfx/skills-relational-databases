@@ -405,3 +405,4 @@
 - 2023-04-14: Small fix
 - 2023-02-25: Polish docs
 - 2023-08-20: Clarify section
+- 2023-12-17: Fix example
