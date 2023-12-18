@@ -412,3 +412,4 @@
 - 2023-01-14: Small fix
 - 2023-05-25: Clarify section
 - 2023-12-12: Expand section
+- 2023-12-18: Add detail
