@@ -374,3 +374,4 @@
 - 2023-02-20: Refine text
 - 2023-04-02: Review content
 - 2023-07-01: Expand section
+- 2023-12-22: Add note
