@@ -418,3 +418,4 @@
 - 2023-03-15: Improve docs
 - 2024-09-07: Fix example
 - 2024-04-13: Add remark
+- 2024-01-08: Minor update
