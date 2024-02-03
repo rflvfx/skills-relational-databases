@@ -36,3 +36,4 @@
 - 2023-06-05: Add deadlock detection examples
 - 2023-07-19: Review isolation anomalies section
 - 2023-12-09: Refine fk cascades guide
+- 2024-02-03: Review constraint deferral section
