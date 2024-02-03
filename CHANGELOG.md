@@ -433,3 +433,4 @@
 - 2024-06-24: Improve docs
 - 2024-04-21: Review content
 - 2024-11-09: Expand section
+- 2024-02-03: Add detail
