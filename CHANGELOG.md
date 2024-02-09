@@ -419,3 +419,4 @@
 - 2024-09-07: Fix example
 - 2024-04-13: Add remark
 - 2024-01-08: Minor update
+- 2024-02-09: Clarify section
