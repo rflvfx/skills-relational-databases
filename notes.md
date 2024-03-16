@@ -112,3 +112,4 @@
 - 2023-03-26: Expand section
 - 2023-07-12: Add remark
 - 2024-03-18: Update notes
+- 2024-03-16: Update guide
