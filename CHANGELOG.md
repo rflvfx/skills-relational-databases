@@ -449,3 +449,4 @@
 - 2024-05-19: Minor update
 - 2024-03-01: Minor update
 - 2024-06-04: Typo fix
+- 2024-04-07: Clarify section
