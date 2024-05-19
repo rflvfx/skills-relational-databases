@@ -446,3 +446,4 @@
 - 2024-08-08: Small fix
 - 2024-03-20: Improve docs
 - 2024-05-12: Improve docs
+- 2024-05-19: Minor update
