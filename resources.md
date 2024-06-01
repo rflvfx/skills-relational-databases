@@ -1,2 +1,3 @@
 - 2018-05-13: Expand section (skills-relational-databases)
 - 2022-08-02: Add usage example (skills-relational-databases)
+- 2024-06-01: Review and cleanup (skills-relational-databases)
