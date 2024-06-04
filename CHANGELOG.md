@@ -448,3 +448,4 @@
 - 2024-05-12: Improve docs
 - 2024-05-19: Minor update
 - 2024-03-01: Minor update
+- 2024-06-04: Typo fix
