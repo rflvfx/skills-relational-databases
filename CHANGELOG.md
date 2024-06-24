@@ -430,3 +430,4 @@
 - 2024-09-27: Fix example
 - 2024-01-01: Add note
 - 2024-04-03: Add detail
+- 2024-06-24: Improve docs
