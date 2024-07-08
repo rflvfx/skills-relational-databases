@@ -37,3 +37,4 @@
 - 2023-07-19: Review isolation anomalies section
 - 2023-12-09: Refine fk cascades guide
 - 2024-02-03: Review constraint deferral section
+- 2024-07-08: Improve audit columns coverage
