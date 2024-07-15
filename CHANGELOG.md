@@ -458,3 +458,4 @@
 - 2024-08-22: Minor update
 - 2024-10-03: Improve docs
 - 2024-06-24: Minor update
+- 2024-07-15: Adjust content
