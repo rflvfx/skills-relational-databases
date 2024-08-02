@@ -442,3 +442,4 @@
 - 2024-10-19: Minor update
 - 2024-10-21: Polish docs
 - 2024-02-07: Minor update
+- 2024-08-02: Improve docs
