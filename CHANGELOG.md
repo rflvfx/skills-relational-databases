@@ -424,3 +424,4 @@
 - 2024-10-17: Minor update
 - 2024-08-21: Fix example
 - 2024-07-07: Add detail
+- 2024-08-15: Improve docs
