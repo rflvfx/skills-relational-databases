@@ -422,3 +422,4 @@
 - 2024-02-09: Clarify section
 - 2024-01-24: Polish docs
 - 2024-10-17: Minor update
+- 2024-08-21: Fix example
