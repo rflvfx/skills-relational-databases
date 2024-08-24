@@ -115,3 +115,4 @@
 - 2024-03-16: Update guide
 - 2024-03-23: Improve docs
 - 2024-07-23: Expand section
+- 2024-08-24: Add remark
