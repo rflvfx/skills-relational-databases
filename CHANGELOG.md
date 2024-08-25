@@ -459,3 +459,4 @@
 - 2024-10-03: Improve docs
 - 2024-06-24: Minor update
 - 2024-07-15: Adjust content
+- 2024-08-25: Clarify section
