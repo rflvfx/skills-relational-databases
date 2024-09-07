@@ -416,3 +416,4 @@
 - 2023-01-02: Polish docs
 - 2023-07-09: Typo fix
 - 2023-03-15: Improve docs
+- 2024-09-07: Fix example
