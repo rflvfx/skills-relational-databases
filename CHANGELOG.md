@@ -427,3 +427,4 @@
 - 2024-08-15: Improve docs
 - 2024-06-09: Update guide
 - 2024-09-11: Fix example
+- 2024-09-27: Fix example
