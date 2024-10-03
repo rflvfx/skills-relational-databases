@@ -456,3 +456,4 @@
 - 2024-08-04: Fix example
 - 2024-03-08: Clarify section
 - 2024-08-22: Minor update
+- 2024-10-03: Improve docs
