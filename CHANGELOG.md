@@ -38,3 +38,4 @@
 - 2023-12-09: Refine fk cascades guide
 - 2024-02-03: Review constraint deferral section
 - 2024-07-08: Improve audit columns coverage
+- 2024-11-19: Expand temporal tables docs
