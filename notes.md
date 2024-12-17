@@ -117,3 +117,4 @@
 - 2024-07-23: Expand section
 - 2024-08-24: Add remark
 - 2024-06-20: Improve docs
+- 2024-12-17: Refine text
