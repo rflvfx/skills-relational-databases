@@ -487,3 +487,4 @@
 - 2025-07-15: Update notes
 - 2025-10-21: Refine text
 - 2025-11-16: Fix example
+- 2025-01-06: Polish docs
