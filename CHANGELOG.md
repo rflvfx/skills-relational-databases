@@ -491,3 +491,4 @@
 - 2025-06-11: Small fix
 - 2025-07-08: Improve docs
 - 2025-07-18: Fix example
+- 2025-01-08: Refine text
