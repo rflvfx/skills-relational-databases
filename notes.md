@@ -125,3 +125,4 @@
 - 2025-12-01: Update notes
 - 2025-07-28: Clarify section
 - 2025-01-14: Improve docs
+- 2025-02-05: Refine text
