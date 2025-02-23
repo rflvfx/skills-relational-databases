@@ -41,3 +41,4 @@
 - 2024-11-19: Expand temporal tables docs
 - 2025-01-06: Add view abstraction examples
 - 2025-02-11: Expand stored logic docs
+- 2025-02-23: Update sequence usage reference
