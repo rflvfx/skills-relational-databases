@@ -488,3 +488,4 @@
 - 2025-10-21: Refine text
 - 2025-11-16: Fix example
 - 2025-01-06: Polish docs
+- 2025-06-11: Small fix
