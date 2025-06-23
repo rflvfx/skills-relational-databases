@@ -465,3 +465,4 @@
 - 2025-02-19: Fix example
 - 2025-10-10: Clarify section
 - 2025-02-07: Improve docs
+- 2025-06-23: Fix example
