@@ -480,3 +480,4 @@
 - 2025-05-14: Small fix
 - 2025-12-28: Add detail
 - 2025-11-20: Refine text
+- 2025-07-17: Update notes
