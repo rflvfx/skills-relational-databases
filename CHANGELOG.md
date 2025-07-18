@@ -490,3 +490,4 @@
 - 2025-01-06: Polish docs
 - 2025-06-11: Small fix
 - 2025-07-08: Improve docs
+- 2025-07-18: Fix example
