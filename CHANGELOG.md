@@ -494,3 +494,4 @@
 - 2025-01-08: Refine text
 - 2025-02-14: Small fix
 - 2025-04-05: Improve docs
+- 2025-07-19: Expand section
