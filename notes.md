@@ -132,3 +132,4 @@
 - 2025-08-28: Fix example
 - 2025-11-20: Polish docs
 - 2025-11-08: Add detail
+- 2025-08-15: Refine text
