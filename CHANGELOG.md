@@ -461,3 +461,4 @@
 - 2024-07-15: Adjust content
 - 2024-08-25: Clarify section
 - 2024-04-23: Update notes
+- 2025-08-22: Improve docs
