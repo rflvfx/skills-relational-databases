@@ -463,3 +463,4 @@
 - 2024-04-23: Update notes
 - 2025-08-22: Improve docs
 - 2025-02-19: Fix example
+- 2025-10-10: Clarify section
