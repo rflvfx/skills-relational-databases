@@ -119,3 +119,4 @@
 - 2024-06-20: Improve docs
 - 2024-12-17: Refine text
 - 2025-03-03: Expand section
+- 2025-10-13: Add detail
