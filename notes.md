@@ -128,3 +128,4 @@
 - 2025-02-05: Refine text
 - 2025-07-24: Refine text
 - 2025-10-04: Review content
+- 2025-10-21: Expand section
