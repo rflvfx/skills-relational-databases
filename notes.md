@@ -130,3 +130,4 @@
 - 2025-10-04: Review content
 - 2025-10-21: Expand section
 - 2025-08-28: Fix example
+- 2025-11-20: Polish docs
