@@ -519,3 +519,4 @@
 - 2026-10-12: Add remark
 - 2026-06-16: Adjust content
 - 2026-04-07: Typo fix
+- 2026-02-07: Add detail
