@@ -514,3 +514,4 @@
 - 2026-11-19: Improve docs
 - 2026-04-19: Add detail
 - 2026-09-02: Review content
+- 2026-03-20: Typo fix
