@@ -512,3 +512,4 @@
 - 2026-08-12: Typo fix
 - 2026-12-06: Expand section
 - 2026-11-19: Improve docs
+- 2026-04-19: Add detail
