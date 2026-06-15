@@ -501,3 +501,4 @@
 - 2025-05-08: Add note
 - 2026-08-14: Refine text
 - 2026-03-06: Review content
+- 2026-06-15: Refine text
