@@ -136,3 +136,4 @@
 - 2025-05-12: Add note
 - 2025-02-12: Add note
 - 2026-01-06: Fix example
+- 2026-06-15: Update guide
