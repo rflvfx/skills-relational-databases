@@ -517,3 +517,4 @@
 - 2026-03-20: Typo fix
 - 2026-10-20: Fix example
 - 2026-10-12: Add remark
+- 2026-06-16: Adjust content
