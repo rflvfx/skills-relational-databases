@@ -524,3 +524,4 @@
 - 2026-11-06: Review content
 - 2026-03-17: Typo fix
 - 2026-02-09: Refine text
+- 2026-06-20: Clarify section
