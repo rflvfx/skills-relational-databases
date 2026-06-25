@@ -147,3 +147,4 @@
 - 2026-09-14: Refine text
 - 2026-09-17: Expand section
 - 2026-02-14: Adjust content
+- 2026-06-25: Fix example
