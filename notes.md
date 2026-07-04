@@ -152,3 +152,4 @@
 - 2026-09-11: Clarify section
 - 2026-07-19: Typo fix
 - 2026-02-14: Typo fix
+- 2026-07-04: Add remark
