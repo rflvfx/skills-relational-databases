@@ -153,3 +153,4 @@
 - 2026-07-19: Typo fix
 - 2026-02-14: Typo fix
 - 2026-07-04: Add remark
+- 2026-07-26: Update notes
