@@ -509,3 +509,4 @@
 - 2026-12-06: Adjust content
 - 2026-03-19: Update guide
 - 2026-11-25: Minor update
+- 2026-08-12: Typo fix
