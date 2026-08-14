@@ -499,3 +499,4 @@
 - 2025-05-25: Add remark
 - 2025-04-16: Adjust content
 - 2025-05-08: Add note
+- 2026-08-14: Refine text
