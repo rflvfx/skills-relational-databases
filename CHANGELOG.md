@@ -513,3 +513,4 @@
 - 2026-12-06: Expand section
 - 2026-11-19: Improve docs
 - 2026-04-19: Add detail
+- 2026-09-02: Review content
