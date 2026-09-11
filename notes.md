@@ -149,3 +149,4 @@
 - 2026-02-14: Adjust content
 - 2026-06-25: Fix example
 - 2026-01-20: Polish docs
+- 2026-09-11: Clarify section
