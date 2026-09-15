@@ -1,8 +1,14 @@
--- schema.sql
-CREATE TABLE usuarios (
+CREATE TABLE clientes (
   id SERIAL PRIMARY KEY,
-  nome VARCHAR(100) NOT NULL,
-  email VARCHAR(100) UNIQUE NOT NULL
+  nome VARCHAR(100)
 );
 
-INSERT INTO usuarios (nome, email) VALUES ('Rafael', 'rafael@email.com');
+CREATE TABLE pedidos (
+  id SERIAL PRIMARY KEY,
+  cliente_id INT REFERENCES clientes(id),
+  valor DECIMAL(10,2)
+);
+
+SELECT c.nome, p.valor
+FROM clientes c
+JOIN pedidos p ON p.cliente_id = c.id;

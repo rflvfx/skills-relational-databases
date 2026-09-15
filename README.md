@@ -1,20 +1,11 @@
 # skills-relational-databases
 
-Habilidade: **Relational databases**
+Conceitos e exemplos de banco de dados relacionais.
 
-## Anos de experiencia
+## Conceitos
 
-_Atualize este campo com o tempo de experiencia real._
-
-## Sobre
-
-Repositorio de referencia para a habilidade **Relational databases**.
-Inclui um exemplo minimo e anotacoes para consulta rapida.
-
-## Exemplo
-
-Veja o arquivo `exemplo` na raiz do repositorio.
-
-## Links uteis
-
-- [Documentacao oficial](https://www.google.com/search?q=Relational databases+documentacao)
+- Tabelas e colunas
+- Chave primaria e estrangeira
+- Normalizacao
+- Relacionamentos 1:1, 1:N, N:M
+- SQL padrao
