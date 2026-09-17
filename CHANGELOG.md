@@ -43,3 +43,4 @@
 - 2025-02-11: Expand stored logic docs
 - 2025-02-23: Update sequence usage reference
 - 2025-08-04: Improve constraint naming coverage
+- 2026-09-17: Update stats freshness reference
