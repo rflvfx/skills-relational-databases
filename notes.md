@@ -145,3 +145,4 @@
 - 2026-02-22: Small fix
 - 2026-08-18: Typo fix
 - 2026-09-14: Refine text
+- 2026-09-17: Expand section
