@@ -28,3 +28,5 @@
 - 2019-06-22: Improve lock contention coverage
 - 2025-04-18: Update index coverage reference
 - 2025-07-26: Add query rewrites notes
+- 2026-09-27: Expand deadlock detection docs
+- 2020-11-27: Add temporal tables examples
