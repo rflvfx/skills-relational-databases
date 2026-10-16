@@ -1,11 +1,25 @@
+<div align="center">
+
 # skills-relational-databases
 
-Conceitos e exemplos de banco de dados relacionais.
+**Bancos relacionais** — normalização, transações, índices e particionamento.
 
-## Conceitos
+</div>
 
-- Tabelas e colunas
-- Chave primaria e estrangeira
-- Normalizacao
-- Relacionamentos 1:1, 1:N, N:M
-- SQL padrao
+## 📋 Sobre
+
+Fundamentos sólidos de bancos relacionais: do modelo ER à otimização com índices e particionamento de tabelas grandes.
+
+## 📂 Conteúdo
+
+- `erd.md` — modelagem entidade-relacionamento
+- `normalization.md` — 1NF/2NF/3NF
+- `joins.sql` — referência de JOINs
+- `transactions.sql` — transações e isolamento
+- `indexes.sql` — estratégias de índice
+- `partitioning.md` — RANGE/LIST/HASH
+- `exemplo.sql` — exemplo prático
+
+## 🧠 Tópicos cobertos
+
+`normalization` `ACID` `isolation levels` `indexes` `partitioning` `constraints`
