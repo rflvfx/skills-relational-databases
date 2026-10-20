@@ -526,3 +526,4 @@
 - 2026-02-09: Refine text
 - 2026-06-20: Clarify section
 - 2026-06-10: Review content
+- 2026-10-20: Add remark
